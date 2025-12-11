@@ -1,0 +1,26 @@
+{
+  "name": "vue2-vite-helloworld",
+  "version": "1.0.0",
+  "description": "Hello World project using Vue 2 and Vite",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^2.7.14"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue2": "^2.3.1",
+    "vite": "^5.0.0"
+  },
+  "keywords": [
+    "vue",
+    "vue2",
+    "vite",
+    "javascript"
+  ],
+  "author": "",
+  "license": "MIT"
+}
